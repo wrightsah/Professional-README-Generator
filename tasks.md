@@ -1,0 +1,2 @@
+- [ ] Initialize flux capacitor
+- [ ] Create require function to for package.
