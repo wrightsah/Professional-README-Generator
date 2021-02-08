@@ -4,6 +4,8 @@
 
 This application uses terminal prompts to dynamically generate a fully-functional README file. 
 
+View video demonstration: ![Demo](assets/readme-demo.mov)
+
 ## Installation
 
 To install the necessary dependencies, download the repository and open the integrated terminal. Run the following command: 
