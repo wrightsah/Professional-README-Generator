@@ -102,7 +102,7 @@ inquirer
       \`\`\`
       
       ## Questions
-      If you have any questions, you may contace me at ${data.email}. 
+      If you have any questions, you may contace me at ${data.emailAddress}. 
     
       `,
 
