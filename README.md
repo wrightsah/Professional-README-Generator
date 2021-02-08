@@ -12,6 +12,12 @@ To install the necessary dependencies, download the repository and open the inte
 npm install
 \`\`\`
 
+To run, open the repsository directory in terminal and run the following command: 
+
+\`\`\`
+node index
+\`\`\`
+
 ## License
 
 This application uses the following license: [MIT License](LICENSE)
